@@ -1,5 +1,5 @@
 # 友链数据源
-前端页面： [https://xaoxuu.com/friends/](https://learnfs.com/)
+前端页面： [https://learnfs.com/](https://learnfs.com/)
 
 ## 什么类型的网站可以添加
 必须同时满足：
