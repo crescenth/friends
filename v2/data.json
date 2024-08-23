@@ -1,0 +1,19 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "Cubik 的小站",
+      "url": "https://cubik65536.top",
+      "avatar": "https://img.cubik65536.top/CubikLogo.png",
+      "screenshot": "https://img.cubik65536.top/cubik65536-top-screenshot.png",
+      "description": "RECOMMENDED BY DR.CREATIVE"
+    },
+    {
+      "title": "钟意博客",
+      "url": "https://blog.thatcoder.cn/",
+      "avatar": "https://upyun.thatcdn.cn/hexo/stellar/image/favicon.webp",
+      "screenshot": "https://upyun.thatcdn.cn/hexo/stellar/image/shot.webp!screenshot",
+      "description": "感谢你的阅读."
+    }
+  ]
+}
